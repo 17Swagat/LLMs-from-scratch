@@ -1,3 +1,9 @@
+# ME(SKB):
+ch05/00_ME-Experimenting/gpt_model_weights.pth
+ch05/00_ME-Experimenting/gptModel_and_checkpoint.pth
+ch05/00_ME-Experimenting/gpt2/
+
+
 # Configs and keys
 .chainlit
 ch05/07_gpt_to_llama/config.json
