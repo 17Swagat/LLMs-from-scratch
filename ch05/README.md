@@ -20,7 +20,7 @@
 &nbsp;
 ## LLM Architectures From Scratch
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/bonus/qwen/qwen-overview.webp">
+<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/bonus/qwen/qwen-overview.webp" width="2400px">
 
 &nbsp;
 
